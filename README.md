@@ -1,12 +1,12 @@
 # Zip Code Checker
 
 ## Requirements
-* 1. Java 8+
-* 2. Eclipse With Maven Compiler
-* 3. JUnit  
+*  Java 8+
+*  Eclipse With Maven Compiler
+*  JUnit  
 
 
 ## To Run
-* 1. Download the application and go to the directory
-* 2. Run as Java Project
-* 3. Run as Junit Test
+*  Download the application and go to the directory
+*  Run as Java Project
+*  Run as Junit Test
